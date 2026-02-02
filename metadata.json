@@ -1,0 +1,8 @@
+{
+  "name": "LEO | Enterprise Prime",
+  "description": "Enterprise-grade synthetic intelligence with multi-platform interface simulation and Aria-Nexus legacy assimilation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
